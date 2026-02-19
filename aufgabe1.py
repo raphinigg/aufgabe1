@@ -7,3 +7,4 @@ while True:
     if eingabe =="0":
         break
 
+test = "Böses fach"
